@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/AppointmentListView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/PatientListView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/AddClinicianView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/controller/PatientController.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/model/Prescription.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/PrescriptionFormView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/EditAppointmentView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/AddPatientView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/controller/AppointmentController.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/controller/ClinicianController.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/ClinicianListView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/model/Patient.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/controller/ReferralController.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/model/Clinician.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/PrescriptionListView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/MainDashboard.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/model/Appointment.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/model/Referral.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/controller/PrescriptionController.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/AddAppointmentView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/EditClinicianView.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/main/Main.java</file>
+            <file>file:/C:/Users/confi/Documents/projects/Bilal/HealthcareReferralSystem/src/view/EditPatientView.java</file>
+        </group>
+    </open-files>
+</project-private>

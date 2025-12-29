@@ -1,0 +1,17 @@
+PRESCRIPTION DETAILS
+=================================
+Prescription ID: 11
+Patient ID: P001
+Clinician ID: C001
+Appointment ID: A001
+Prescription Date: 22
+Medication Name: 33
+Dosage: 44
+Frequency: 55
+Duration (Days): 66
+Quantity: 77
+Instructions: 88
+Pharmacy Name: 99
+Status: 10
+Issue Date: 11
+Collection Date: 12
